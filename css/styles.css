@@ -52,11 +52,6 @@ button{
 button:hover{
     background-color:#0b8581;
 }
-button a{
-    color:"#ffff";
-    text-decoration:"none";
-}
-
 /* Section_2 Styles*/
 .advance-nature .col > div{
     padding:3rem 0 ;
